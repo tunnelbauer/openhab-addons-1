@@ -7,7 +7,8 @@ The API must be activated in the Go-eCharger app.
 ## Supported Things
 
 This binding supports Go-eCharger HOME+ with 7.4kW, 11kW or 22kW.
-The Go-eCharger HOMEfix with 11kW and 22kW is supported too.
+The Go-eCharger HOMEfix with 11kW and 22kW is supported too, as well
+as the Gemini series (Gemini and Gemini flex - 11/22kW versions).
 
 ## Thing Configuration
 
